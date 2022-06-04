@@ -35,10 +35,10 @@ Aruba,2008,1062.388,Third World,14.342,101362
 Aruba,2012,1030.775,Third World,14.304,102565
 Aruba,2016,1007.52,Third World,14.262,104865
 Aruba,2020,994.16,Third World,14.244,106766
-Australia,2008,644.31,First World,11.69,21332293
-Australia,2012,639.259,First World,11.68,22903951
-Australia,2016,639.056,First World,11.663,24262710
-Australia,2020,637.362,First World,11.654,25499881
+Australia,2008,644.31,Australia,11.69,21332293
+Australia,2012,639.259,Australia,11.68,22903951
+Australia,2016,639.056,Australia,11.663,24262710
+Australia,2020,637.362,Australia,11.654,25499881
 Austria,2008,628.936,First World,11.146,8341525
 Austria,2012,625.508,First World,11.14,8502230
 Austria,2016,602.738,First World,11.136,8747306
@@ -215,7 +215,7 @@ Equatorial Guinea,2008,51.229,Third World,3.644,860839
 Equatorial Guinea,2012,51.22,Third World,3.643,1031191
 Equatorial Guinea,2016,50.887,Third World,3.64,1215181
 Equatorial Guinea,2020,50.721,Third World,3.636,1402985
-Eritrea,2008,50.458,first,3.58,3062782
+Eritrea,2008,50.458,Third World,3.58,3062782
 Eritrea,2012,49.979,Third World,3.577,3250104
 Eritrea,2016,48.341,Third World,3.572,3376558
 Eritrea,2020,48.275,Third World,3.568,3546427
